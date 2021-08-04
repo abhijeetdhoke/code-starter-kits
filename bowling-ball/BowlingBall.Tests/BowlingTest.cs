@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 namespace BowlingBall.Tests
 {
     [TestFixture]
-    public class BowlingTest
+    public class GameTest
     {
         Game game;
 
-        public BowlingTest(Game game)
+        public GameTest(Game game)
         {
             this.game = game;
         }

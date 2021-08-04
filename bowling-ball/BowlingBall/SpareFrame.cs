@@ -13,7 +13,7 @@ namespace BowlingBall
 
         override public int Score()
         {
-            return 10 + FirstBonusBall(); ;
+            return 10 + FirstBonusBall();
         }
 
         override protected int FrameSize()
